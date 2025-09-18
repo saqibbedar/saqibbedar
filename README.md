@@ -22,7 +22,7 @@ Here, you'll find:
 I'm always looking to learn, improve, and contribute to exciting projects. Feel free to explore and connect!
 
 ## Skills
-<p align="center">
+<p align="left">
 <!-- git -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="34.5"/> </a><!-- python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="36"/> </a>
